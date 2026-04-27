@@ -1,6 +1,6 @@
 # Evaluating Music Improvisation Algorithms with a Modular Trading Fours System
 
-This repository contains all code used for the Master's thesis ['Evaluating Music Improvisation Algorithms with a Modular Trading Fours System'](https://resolver.tudelft.nl/uuid:822728ff-9769-429f-9a88-0f2e960a26e4).
+This repository contains all code used for the work 'Evaluating Music Improvisation Algorithms with a Modular Trading Fours System'.
 
 ## Contents
 
